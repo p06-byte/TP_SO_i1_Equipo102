@@ -13,3 +13,7 @@ si, los demás pueden todos los archivos que agrego BETA
 
 d-¿De qué forma se comunicaron ustedes?
 Por llamada de discord 
+
+e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
+Utilizando las solapas de los proyectos y utilizando los comentarios cuando cambia algo en el repositorio
+
