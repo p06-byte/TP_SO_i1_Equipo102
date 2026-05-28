@@ -7,3 +7,7 @@ Sí, los ve.
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Sí, los demás lo pueden ver.
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+
+d-¿De qué forma se comunicaron ustedes?
